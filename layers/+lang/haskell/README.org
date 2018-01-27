@@ -159,7 +159,7 @@ supported style. The available styles are:
 - chris-done
 - gibiansky
 
-See examples [[https://github.com/chrisdone/hindent#example][here]].
+See examples [[https://github.com/commercialhaskell/hindent/blob/master/TESTS.md][here]].
 
 #+BEGIN_SRC emacs-lisp
 (setq-default dotspacemacs-configuration-layers
